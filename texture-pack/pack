@@ -1,0 +1,259 @@
+
+textures1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+env-slope-white
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+env-mf-middle-1
+  rotate: false
+  xy: 68, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-bottom-4
+  rotate: false
+  xy: 86, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-bottom-1
+  rotate: false
+  xy: 104, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-top-1
+  rotate: false
+  xy: 2, 68
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-top-2
+  rotate: false
+  xy: 20, 68
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-top-3
+  rotate: false
+  xy: 38, 68
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-bottom-3
+  rotate: false
+  xy: 56, 68
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-middle-2
+  rotate: false
+  xy: 74, 68
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-top-4
+  rotate: false
+  xy: 92, 68
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-bg
+  rotate: false
+  xy: 110, 68
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-middle-3
+  rotate: false
+  xy: 2, 102
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-mf-bottom-2
+  rotate: false
+  xy: 20, 102
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+env-panel-1
+  rotate: false
+  xy: 68, 36
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+env-panel-5
+  rotate: false
+  xy: 86, 36
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+env-panel-2
+  rotate: false
+  xy: 104, 36
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+env-panel-3
+  rotate: false
+  xy: 38, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+env-panel-4
+  rotate: false
+  xy: 56, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+env-trim-1-v
+  rotate: false
+  xy: 122, 2
+  size: 4, 16
+  orig: 4, 16
+  offset: 0, 0
+  index: -1
+env-blend-v
+  rotate: false
+  xy: 68, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+env-blend-h
+  rotate: false
+  xy: 86, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+env-laser-h
+  rotate: false
+  xy: 78, 54
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+env-laser-v
+  rotate: false
+  xy: 104, 54
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+env-trim-1-h
+  rotate: false
+  xy: 38, 120
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+env-solid-white
+  rotate: false
+  xy: 68, 64
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+solid
+  rotate: false
+  xy: 68, 64
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+textures2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+env-stripe-v
+  rotate: false
+  xy: 0, 0
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+
+textures3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+env-stripe-h
+  rotate: false
+  xy: 0, 0
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+
+textures4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+env-mesh
+  rotate: false
+  xy: 0, 0
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+
+textures5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+bg-editor
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+textures6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+env-pipes
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+textures7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
